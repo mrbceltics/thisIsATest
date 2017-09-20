@@ -15,6 +15,7 @@ public class Main {
         System.out.println("changes in trunk");
         System.out.println("changes in branch2");
         System.out.println("changes in trunk2");
+        System.out.println("changes in branch3");
     }
 
     private void test() {
