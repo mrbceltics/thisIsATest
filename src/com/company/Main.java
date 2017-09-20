@@ -10,4 +10,8 @@ public class Main {
         System.out.println("new changelist");
         System.out.println("default changelist");
     }
+
+    private void test() {
+        System.out.println();
+    }
 }
