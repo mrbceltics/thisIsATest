@@ -10,6 +10,7 @@ public class Main {
         System.out.println("new changelist");
         System.out.println("default changelist");
         System.out.println("from trunk");
+        System.out.println("changes in trunk");
     }
 
     private void test() {
