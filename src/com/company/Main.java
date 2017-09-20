@@ -11,6 +11,8 @@ public class Main {
         System.out.println("default changelist");
         System.out.println("from branch");
         System.out.println("changes in branch");
+        System.out.println("from trunk");
+        System.out.println("changes in trunk");
     }
 
     private void test() {
