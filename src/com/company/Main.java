@@ -9,6 +9,7 @@ public class Main {
         System.out.println("Rev2");
         System.out.println("new changelist");
         System.out.println("default changelist");
+        System.out.println("from branch");
     }
 
     private void test() {
